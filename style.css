@@ -13,7 +13,6 @@
     background-position: center;
     background-size: cover;
     padding-top: 1%;
-
 }
 .logo{
     width: 25%;
@@ -22,8 +21,6 @@
     font-size: 1.1em;
     float: right;
 }
-
-
 .navbar {
     width: 100%;
     height: auto;
@@ -32,33 +29,24 @@
     align-items: center;
     font-size: 1em;
     color: white;
-    overflow: hidden;
-    
+    overflow: hidden;   
 }
 .social-icon{
     width: 20%;
     display: flex;
     justify-content: space-between;
 }
-.social-icon img{
-    
-   
-}
-
 .navbar-links ul{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
-
 }
 .navbar-links{
-    
     width: 40%;
 }
 .navbar-links ul li{
      padding: 2%;
      font-size: 0.9em;    
-     
 }
 .navbar-links a{
     color: white;
@@ -139,7 +127,6 @@ font-weight: 700;
     display: flex;
     align-items: center;
     justify-content: space-around;
-
 }
 .design{
     width: 55%;
@@ -148,28 +135,22 @@ font-weight: 700;
 }
 .about-design{
     width: 45%;
-    
 }
 .design-item{
     width: 100%;
-
     margin-top: 10%;
 }
 .design0{
     width: 90%;
     display: flex;
-    
-    
     margin-top: 5%;
     box-shadow: 1px 1px 12px 3px gainsboro;
     height: auto;
-
 }
 .design-content{
     width: 55%;
     padding: 7%;
     position: relative;
-   
 }
 .design-content h3{
     font-weight: bolder;
@@ -198,24 +179,20 @@ font-weight: 700;
     padding-left: 4%;
     color: #2d3f51;
 }
-
 .about-design-content p{
     margin-top: 5%;
     color: grey;
     line-height: 1.7;
     font-size: 0.7rem;
-
 }
 .about-design-content .para-2{
-    
-width: 80%;
+    width: 80%;
 }
 .about-design-content button{
     width: 43%;
     height: 8vh;
     background-color: #c8342d;
     font-weight: lighter;
-    
 }
 .show-work{
     background-color: #f5f5f5;
@@ -228,8 +205,6 @@ width: 80%;
     color: grey;
 }
 .show-work .content {
-   
-   
     text-align: center;
 }
 .content header {
@@ -256,7 +231,6 @@ width: 80%;
     font-weight: bold;
 }
 .show-work-data ul{
-    
     display: flex;
     justify-content: space-around;
     list-style-type: none;
@@ -269,7 +243,6 @@ width: 80%;
     color: #c8342d;
     font-weight: bold;
     border-radius: 3px;
-
 }
 .show-work-image{
     width: 70%;
@@ -279,15 +252,10 @@ width: 80%;
     display: flex;
     justify-content: space-between;
     margin-top: 2%; 
-
 }
-
-
-
 .first-row-col1{
     width: 95%;
-    height: auto;
-   
+    height: auto;  
 }
 .first-row-col1 img{
     width: 100%;
@@ -302,7 +270,6 @@ width: 80%;
 }
 .second-col1{
     width: 47%;
-
 }
 .second-row img{
     width: 100%;
@@ -314,13 +281,10 @@ width: 80%;
 }
 .first-row{
     width:68% ;
-  
 }
-
 .col-2{
     width: 31%;
-    height:auto;
-    
+    height:auto;   
 }
 .col-2 img{
     width: 100%;
@@ -338,8 +302,6 @@ width: 80%;
         color: white;  
         border-radius: 12px;
         border: none;
-    
-    
 }
 .work-process{
     width: 100%;
@@ -349,7 +311,6 @@ width: 80%;
     text-align: center;
     padding-top: 3%;
     padding-bottom: 3%;
-    
 }
 .work-process .flex{
     margin-top: 5%;
@@ -383,7 +344,6 @@ width: 80%;
     background: transparent;
     border: 2px solid white;
     left: 0;
-    
 }
 .octagonWrap {
     width:97px;
@@ -408,8 +368,7 @@ width: 80%;
     border: inherit;
 }
 .octagonWrap h1{
-  padding: 25px 0;
-  
+    padding: 25px 0;
 }
 .amazing-service{
     width: 100%;
@@ -420,10 +379,8 @@ width: 80%;
 }
 .amazing-service h1{
     color: #2d3f51;
- 
 }
 .amazing-service p{
-
     width: 52%;
     margin-left: auto;
     margin-right: auto;
@@ -440,7 +397,6 @@ width: 80%;
      margin-right: auto;
      text-align: center;
 }
-
 .service-flex h1,h5{
     color: #2d3f51;
 }
@@ -449,24 +405,19 @@ width: 80%;
     font-size: 0.7rem;
     color: grey;
 }
-
 .service-flex .items{
     width: 30%;
-
     margin-top: 2%;
     text-align: center;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
     padding: 1%;
-  
-
 }
 .service-flex .items:hover{
     box-shadow: 1px 1px 15px 3px gainsboro;
 }
 .octagon-content{
-
     width: 100%;
 }
 .octagonWrap-service {
@@ -477,31 +428,21 @@ width: 80%;
     position: relative;
     overflow: hidden;
     margin-top: 8%;
-    left: 0;
-    
-   
-  
 }
 .octagonWrap-service img{
     padding: 22px 0;
-    
-
-    
 }
 .octagon-service {
     position: absolute;
     top: 0; right: 0; bottom: 0; left: 0;
     overflow: hidden;
-    left: 0;
     transform: rotate(45deg);
     background: transparent;
     border: 2px solid #c8342d;
-    
 }
 .items:hover .octagon-service {
     border: 2px solid #2d3f51;
 }
-
 .octagon-service:before {
     position: absolute;
     top: -2px; right: -2px; bottom: -2px; left: -2px;
@@ -518,10 +459,6 @@ width: 80%;
     background-size: cover;
     text-align: center;
     color: white;
-    
-    
-    
-
 }
 .about-client header{
     padding-top: 2%;
@@ -533,9 +470,6 @@ width: 80%;
     color: red;
     margin-top: 1%;
 }
-.client-image h4{
-
-}
 .client-data{
     margin-top: 1%;
     width: 48.2%;
@@ -546,7 +480,6 @@ width: 80%;
 .client-data p{
     opacity: 0.7;
     line-height: 1.8;
-
 }
 .rating{
     margin-top: 2%;
@@ -554,8 +487,6 @@ width: 80%;
 .client-circle{
     margin-top: 3%;
     padding-bottom: 2%;
-    
-    
 }
 .blog-news{
     text-align: center;
@@ -585,7 +516,6 @@ width: 80%;
     box-shadow: 1px 1px 2px 3px whitesmoke;
 }
 .phone-image{
-
     width: 30%;
     height: auto;
 }
@@ -594,16 +524,13 @@ width: 80%;
     padding: 2%;
     height: auto;
     width:65% ;
-  
 }
 .mock-up-data h6{
     color: red;
-    
 }
 .mock-up-data h5{
     margin-top: 3%;
 }
-
 .mock-up-data p{
     margin: 0;
     margin-top: 2%;
@@ -611,27 +538,21 @@ width: 80%;
     line-height: 1.9;
     font-size: 0.75rem;
 }
-
-
 .phone-image img{
     height: 100%;
     width: 100%;
 }
-.mock-data2{
-    
+.mock-data2{   
     width: 75%;
     margin-left: auto;
     margin-right: auto;
     height: auto;
-
-   
     margin-top: 3%;
 }
 .mock-data2 .flex-mock{
     width: 100%;
     padding: 0;
     height: auto;
-    
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -641,7 +562,6 @@ width: 80%;
     width: 30%;
     padding: 2%;
     box-shadow: 2px 2px 12px 5px gainsboro;
-    
 }
 .mock-data2 .item h6{
     color: red;
@@ -650,17 +570,12 @@ width: 80%;
   margin: 0;
   margin-top: 3%;
   line-height: 1.8;
-
 }
-
-
-
 footer{
     margin-top: 5%;
     width: 100%;
     height: auto;
     padding-bottom: 3%;
-    
     background-color: #28252a;
 }
 .footer-data{
@@ -670,7 +585,6 @@ footer{
     padding-top: 5%;
     font-size: 1rem;
 }
-
 .footer-data ul {
     display: flex;
     flex-wrap: wrap;
@@ -678,7 +592,6 @@ footer{
     align-items: center;
     color: white;
     list-style-type: none;
-
 }
 .footer-icon{
     width: 15%;
@@ -686,16 +599,13 @@ footer{
     margin-right: auto;
     padding-top: 3%;
     font-size: 1rem;
-
 }
 .footer-icon ul{
-    
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     list-style-type: none;   
-    
 }
 .footer-detail{
     width: 27%;
@@ -728,14 +638,9 @@ footer{
     opacity: 1;
   } 
 @media (max-width:650px) {
-  
     .anime2{
-        
         transform: translateX(0px);
-       
       }
-      
-   
     .navbar-links {
         display: none;
         width: 100%;
@@ -754,33 +659,26 @@ footer{
     }
     .navbar-links ul {
         width: 100%;
-        flex-direction: column;   
-        
+        flex-direction: column;    
     }
-    
     .navbar-links li {
         text-align: center;       
     }
     .navbar-links li:hover{
         background-color: white;
-        color: #2d3f51;
-        
+        color: #2d3f51;   
     }
     .navbar-links li:hover a{
         background-color: white;
         color: #2d3f51;
         font-weight: bold;
-        
     }
     .hideme {
         display: none;
     }
-  
-   
     .hideme:checked~.navbar-links {
         display: block;
     }
-    
     .section{
         height: auto;
         padding-bottom: 8%;
@@ -798,18 +696,12 @@ footer{
     .logo header{
         float: left;
     }
-
     .service-content h1{
-        
-
-    font-size: 1.6rem;
-    margin-top: 5%;
-
-
+        font-size: 1.6rem;
+        margin-top: 5%;
     }
     .service-content p{
         margin-top: 11%;
-        
         width: 80%;
         font-size: 1rem;
     }
@@ -822,12 +714,9 @@ footer{
         width: 100%;
         padding: 0;
     }
-
     .about-design{
         width: 100%;
-        text-align: center;
-      
-       
+        text-align: center;  
     }
      .design{
         width: 75%;
@@ -838,7 +727,6 @@ footer{
         width: 100%;
     }
     .about-design-content{
-        
         text-align: center;
         width: 100%;
         padding: 0;
@@ -858,18 +746,17 @@ footer{
         margin-left: auto;
         margin-right: auto;
     }
- .about-design-content .para-2{
-    font-size: 1rem;
-    margin-top: 3%;
-    width: 93%;
-    margin-left: auto;
-    margin-right: auto;
+    .about-design-content .para-2{
+        font-size: 1rem;
+        margin-top: 3%;
+        width: 93%;
+        margin-left: auto;
+        margin-right: auto;
     }
     .about-design-content .button{
         font-size: 1rem;
         height: 15vh;
-        width: 34%;
-        
+        width: 34%;   
     }
     .content{
         padding: 2%;
@@ -881,8 +768,8 @@ footer{
     }
     .content p{
         width: 99%;
-    font-size: 1.0rem;
-    line-height: 1.9;
+        font-size: 1.0rem;
+        line-height: 1.9;
     }
     .show-work-data {
         width: 97%;
@@ -965,10 +852,8 @@ footer{
         margin-top: 8%;
         margin-left: auto;
         margin-right: auto;
-        width: 50%;
-       
+        width: 50%;  
     }
-     
     .octagonWrap{
         width: 130px;
         height: 130px;
@@ -976,7 +861,6 @@ footer{
     .octagonWrap h1{
         font-size: 3.2rem;
         padding: 20px 0;
-
     }
     .work-process .flex .work-item h5{
         font-size: 1.2rem;
@@ -1023,7 +907,6 @@ footer{
         width: 80%;
     }
     .phone-image{
-        
         display: none;
     }
     .mock-up-data{
@@ -1034,7 +917,6 @@ footer{
     }
     .mock-up-data h6{
         font-size: 0.6rem;
-
     }
     .mock-up-data h5{
         font-size: 0.6rem;
@@ -1044,8 +926,6 @@ footer{
         width: 100%;
         line-height: 1.5;
     }
-
-
     .mock-data2{
         width: 95%;
         height:auto;
@@ -1073,11 +953,6 @@ footer{
     .footer-detail{
         width: 80%;
     }
-
-
-
-
-
 }
 @media (max-width:500px){
     .service-content h1{
@@ -1092,7 +967,6 @@ footer{
     }
     .modern-design .design{
         width: 85%;
-
     }
     .about-design{
         font-size: 1.5rem;
@@ -1103,12 +977,10 @@ footer{
     .about-design-content p{
         width: 80%;
         font-size: 1rem;
-
     }
     .about-design-content para-2{
         width: 80%;
         font-size: 1rem;
-
     }
     .about-design-content .button{
         height: auto;
@@ -1136,7 +1008,6 @@ footer{
         width: 37%;
         height: auto;
         padding: 1%;
-
     }
     .work-process p{
         margin-top: 5%;
@@ -1149,10 +1020,9 @@ footer{
     }
     .flex-mock .item{
         width: 85%;
-    margin: auto;
-    margin-top: 4%;
-    padding: 5%;
-
+        margin: auto;
+        margin-top: 4%;
+        padding: 5%;
     }
     .flex-mock .item p{
         font-size: 1rem;
@@ -1175,7 +1045,6 @@ footer{
         width: 73%;
         font-size: 1rem;
         margin-top: 5%;
-
     }
     .service-content .button{
         width: 20%;
@@ -1233,7 +1102,6 @@ footer{
         width: 60%;
         font-size: 0.8rem;
         margin-top: 2%;
-
     }
     .service-flex{
         width: 85%;
@@ -1258,7 +1126,6 @@ footer{
     }
     .mock-up-data p{
         width: 98%;
-        
     }
     .mock-data2 .flex-mock .item p{
         width: 100%;
@@ -1273,23 +1140,4 @@ footer{
         width: 40%;
         font-size: 1rem;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
