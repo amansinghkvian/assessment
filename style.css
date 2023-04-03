@@ -1100,9 +1100,12 @@ footer{
         width: 90%;
     }
     .amazing-service p{
-        width: 100%;
+        width: 60%;
         font-size: 0.8rem;
         margin-top: 2%;
+    }
+    .items p{
+        width: 100%;
     }
     .service-flex{
         width: 85%;
