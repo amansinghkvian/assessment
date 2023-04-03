@@ -862,6 +862,7 @@ footer{
         font-size: 3.2rem;
         padding: 20px 0;
     }
+   
     .work-process .flex .work-item h5{
         font-size: 1.2rem;
         margin-top: 7%;
@@ -1099,7 +1100,7 @@ footer{
         width: 90%;
     }
     .amazing-service p{
-        width: 60%;
+        width: 100%;
         font-size: 0.8rem;
         margin-top: 2%;
     }
